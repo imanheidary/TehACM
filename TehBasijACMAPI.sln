@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TehBasijACMAPI", "TehBasijACMAPI\TehBasijACMAPI.csproj", "{3817067E-7207-443D-AB41-955F5D90A910}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{7600A170-7769-4A3E-8B29-E3818CA88C05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "Repository\Repository.csproj", "{E3BD0B61-B755-44C0-AB7A-467F7F073500}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3817067E-7207-443D-AB41-955F5D90A910}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3817067E-7207-443D-AB41-955F5D90A910}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3817067E-7207-443D-AB41-955F5D90A910}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3817067E-7207-443D-AB41-955F5D90A910}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7600A170-7769-4A3E-8B29-E3818CA88C05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7600A170-7769-4A3E-8B29-E3818CA88C05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7600A170-7769-4A3E-8B29-E3818CA88C05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7600A170-7769-4A3E-8B29-E3818CA88C05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3BD0B61-B755-44C0-AB7A-467F7F073500}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3BD0B61-B755-44C0-AB7A-467F7F073500}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3BD0B61-B755-44C0-AB7A-467F7F073500}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3BD0B61-B755-44C0-AB7A-467F7F073500}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB670409-DECF-4D8C-916B-00E0C60D1CA8}
+	EndGlobalSection
+EndGlobal
